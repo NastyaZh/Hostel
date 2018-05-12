@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+      <class name="by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="beforeMethod" is-config="true" duration-ms="16" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validatePasswordLength_EmptyPassword_FasleReturned()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="validatePasswordLength_EmptyPassword_FasleReturned" duration-ms="15" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePasswordLength_EmptyPassword_FasleReturned -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="validatePasswordLength_PasswordLength14_TrueReturned()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="validatePasswordLength_PasswordLength14_TrueReturned" duration-ms="0" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePasswordLength_PasswordLength14_TrueReturned -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validatePasswordLength_PasswordLength15_FasleReturned()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="validatePasswordLength_PasswordLength15_FasleReturned" duration-ms="16" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePasswordLength_PasswordLength15_FasleReturned -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="validatePasswordLength_NullPassword_FasleReturned()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="validatePasswordLength_NullPassword_FasleReturned" duration-ms="0" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePasswordLength_NullPassword_FasleReturned -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validatePasswordLength_PasswordLength8_TrueReturned()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="validatePasswordLength_PasswordLength8_TrueReturned" duration-ms="0" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePasswordLength_PasswordLength8_TrueReturned -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="validatePasswordLength_PasswordLength7_FasleReturned()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="validatePasswordLength_PasswordLength7_FasleReturned" duration-ms="0" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePasswordLength_PasswordLength7_FasleReturned -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword@14bf9759]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-24T08:10:32Z" finished-at="2018-04-24T08:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- by.epam.project.hostel.service.validation.testng.UserValidatorImplTestPassword -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
